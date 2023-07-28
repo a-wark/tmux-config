@@ -1,8 +1,8 @@
 # tmux-config
 
-first install tmux with homebrew: 
+on mac: install tmux with homebrew: `brew install tmux`
 
-```brew install tmux```
+on linux: `sudo apt install tmux`
 
 then clone this repo into `~/.config/tmux`
 
